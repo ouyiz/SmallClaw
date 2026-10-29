@@ -1,0 +1,7 @@
+tools:
+  - myagent.tools.builtin.file.read_file.ReadFileTool
+  - myagent.tools.builtin.file.write_file.WriteFileTool
+  - myagent.tools.builtin.file.edit_file.EditFileTool
+  - myagent.tools.builtin.file.glob.GlobTool
+  - myagent.tools.builtin.file.grep.GrepTool
+  - myagent.tools.builtin.shell.ShellTool

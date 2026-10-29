@@ -1,0 +1,5 @@
+llm:
+  provider: deepseek
+  protocol: anthropic
+  model: deepseek-flash
+  base_url: https://api.deepseek.com/anthropic
